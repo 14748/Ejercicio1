@@ -13,4 +13,4 @@
 * bla 
 * bla 
 
-[HERE](14748/Carpeta1/capicua.png)
+[HERE](./Carpeta1/capicua.png)
